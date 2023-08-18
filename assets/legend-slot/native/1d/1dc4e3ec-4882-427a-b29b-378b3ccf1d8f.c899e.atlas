@@ -1,0 +1,432 @@
+
+b.png
+size: 2048,1880
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magictree_symbol_middle_frog_00
+  rotate: false
+  xy: 5, 1649
+  size: 231, 229
+  orig: 320, 320
+  offset: 42, 45
+  index: -1
+magictree_symbol_middle_frog_01
+  rotate: false
+  xy: 1367, 1637
+  size: 282, 241
+  orig: 320, 320
+  offset: 19, 39
+  index: -1
+magictree_symbol_middle_frog_02
+  rotate: false
+  xy: 1651, 1635
+  size: 281, 243
+  orig: 320, 320
+  offset: 19, 37
+  index: -1
+magictree_symbol_middle_frog_03
+  rotate: false
+  xy: 589, 1381
+  size: 292, 255
+  orig: 320, 320
+  offset: 14, 32
+  index: -1
+magictree_symbol_middle_frog_04
+  rotate: true
+  xy: 1776, 1338
+  size: 295, 257
+  orig: 320, 320
+  offset: 12, 31
+  index: -1
+magictree_symbol_middle_frog_05
+  rotate: false
+  xy: 2, 351
+  size: 296, 259
+  orig: 320, 320
+  offset: 12, 29
+  index: -1
+magictree_symbol_middle_frog_06
+  rotate: true
+  xy: 1197, 304
+  size: 297, 261
+  orig: 320, 320
+  offset: 11, 28
+  index: -1
+magictree_symbol_middle_frog_07
+  rotate: true
+  xy: 1759, 265
+  size: 297, 261
+  orig: 320, 320
+  offset: 11, 28
+  index: -1
+magictree_symbol_middle_frog_08
+  rotate: true
+  xy: 899, 44
+  size: 297, 261
+  orig: 320, 320
+  offset: 11, 28
+  index: -1
+magictree_symbol_middle_frog_09
+  rotate: true
+  xy: 1461, 5
+  size: 297, 261
+  orig: 320, 320
+  offset: 11, 28
+  index: -1
+magictree_symbol_middle_frog_10
+  rotate: false
+  xy: 1724, 2
+  size: 297, 261
+  orig: 320, 320
+  offset: 11, 28
+  index: -1
+magictree_symbol_middle_frog_12
+  rotate: false
+  xy: 300, 346
+  size: 297, 258
+  orig: 320, 320
+  offset: 11, 31
+  index: -1
+magictree_symbol_middle_frog_13
+  rotate: false
+  xy: 599, 345
+  size: 297, 258
+  orig: 320, 320
+  offset: 11, 31
+  index: -1
+magictree_symbol_middle_frog_14
+  rotate: false
+  xy: 898, 343
+  size: 297, 258
+  orig: 320, 320
+  offset: 11, 31
+  index: -1
+magictree_symbol_middle_frog_15
+  rotate: false
+  xy: 1460, 304
+  size: 297, 258
+  orig: 320, 320
+  offset: 11, 31
+  index: -1
+magictree_symbol_middle_frog_16
+  rotate: false
+  xy: 2, 86
+  size: 297, 258
+  orig: 320, 320
+  offset: 11, 31
+  index: -1
+magictree_symbol_middle_frog_17
+  rotate: false
+  xy: 301, 85
+  size: 297, 258
+  orig: 320, 320
+  offset: 11, 31
+  index: -1
+magictree_symbol_middle_frog_18
+  rotate: false
+  xy: 600, 83
+  size: 297, 258
+  orig: 320, 320
+  offset: 11, 31
+  index: -1
+magictree_symbol_middle_frog_19
+  rotate: false
+  xy: 1162, 42
+  size: 297, 260
+  orig: 320, 320
+  offset: 11, 28
+  index: -1
+magictree_winframe_seq_00
+  rotate: false
+  xy: 2, 1877
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+magictree_winframe_seq_01
+  rotate: false
+  xy: 238, 1638
+  size: 280, 240
+  orig: 320, 320
+  offset: 20, 40
+  index: -1
+magictree_winframe_seq_02
+  rotate: false
+  xy: 520, 1638
+  size: 281, 240
+  orig: 320, 320
+  offset: 20, 40
+  index: -1
+magictree_winframe_seq_03
+  rotate: false
+  xy: 2, 1386
+  size: 291, 250
+  orig: 320, 320
+  offset: 15, 35
+  index: -1
+magictree_winframe_seq_04
+  rotate: false
+  xy: 883, 1380
+  size: 295, 256
+  orig: 320, 320
+  offset: 12, 31
+  index: -1
+magictree_winframe_seq_05
+  rotate: false
+  xy: 1180, 1379
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_06
+  rotate: false
+  xy: 1478, 1377
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_07
+  rotate: false
+  xy: 2, 1128
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_08
+  rotate: false
+  xy: 300, 1123
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_09
+  rotate: false
+  xy: 598, 1122
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_10
+  rotate: false
+  xy: 896, 1121
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_11
+  rotate: false
+  xy: 1194, 1119
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_12
+  rotate: false
+  xy: 1492, 1080
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_13
+  rotate: true
+  xy: 1790, 1040
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_14
+  rotate: false
+  xy: 2, 870
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_15
+  rotate: false
+  xy: 300, 865
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_16
+  rotate: false
+  xy: 598, 864
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_17
+  rotate: false
+  xy: 896, 863
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_18
+  rotate: false
+  xy: 1194, 861
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_19
+  rotate: false
+  xy: 1492, 822
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_20
+  rotate: true
+  xy: 1790, 742
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_21
+  rotate: false
+  xy: 2, 612
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_22
+  rotate: false
+  xy: 300, 607
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_23
+  rotate: false
+  xy: 598, 606
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_24
+  rotate: false
+  xy: 896, 605
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_25
+  rotate: false
+  xy: 1194, 603
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 32
+  index: -1
+magictree_winframe_seq_26
+  rotate: false
+  xy: 1492, 564
+  size: 296, 256
+  orig: 320, 320
+  offset: 12, 31
+  index: -1
+magictree_winframe_seq_27
+  rotate: false
+  xy: 295, 1386
+  size: 292, 250
+  orig: 320, 320
+  offset: 14, 34
+  index: -1
+magictree_winframe_seq_28
+  rotate: false
+  xy: 803, 1638
+  size: 280, 240
+  orig: 320, 320
+  offset: 20, 40
+  index: -1
+magictree_winframe_seq_29
+  rotate: false
+  xy: 1085, 1638
+  size: 280, 240
+  orig: 320, 320
+  offset: 20, 40
+  index: -1
+
+b2.png
+size: 886,1145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magictree_symbol_middle_frog_11
+  rotate: false
+  xy: 2, 5
+  size: 297, 261
+  orig: 320, 320
+  offset: 11, 28
+  index: -1
+magictree_symbol_middle_frog_20
+  rotate: false
+  xy: 301, 2
+  size: 297, 266
+  orig: 320, 320
+  offset: 11, 22
+  index: -1
+magictree_symbol_middle_frog_21
+  rotate: true
+  xy: 609, 846
+  size: 297, 272
+  orig: 320, 320
+  offset: 11, 16
+  index: -1
+magictree_symbol_middle_frog_22
+  rotate: true
+  xy: 600, 242
+  size: 297, 277
+  orig: 320, 320
+  offset: 11, 11
+  index: -1
+magictree_symbol_middle_frog_23
+  rotate: false
+  xy: 2, 268
+  size: 297, 284
+  orig: 320, 320
+  offset: 11, 6
+  index: -1
+magictree_symbol_middle_frog_24
+  rotate: false
+  xy: 2, 554
+  size: 297, 292
+  orig: 320, 320
+  offset: 12, 1
+  index: -1
+magictree_symbol_middle_frog_25
+  rotate: true
+  xy: 304, 553
+  size: 296, 297
+  orig: 320, 320
+  offset: 12, 0
+  index: -1
+magictree_symbol_middle_frog_26
+  rotate: true
+  xy: 2, 848
+  size: 295, 300
+  orig: 320, 320
+  offset: 12, 0
+  index: -1
+magictree_symbol_middle_frog_27
+  rotate: true
+  xy: 304, 851
+  size: 292, 303
+  orig: 320, 320
+  offset: 14, 0
+  index: -1
+magictree_symbol_middle_frog_28
+  rotate: true
+  xy: 301, 270
+  size: 281, 297
+  orig: 320, 320
+  offset: 20, 8
+  index: -1
+magictree_symbol_middle_frog_29
+  rotate: false
+  xy: 603, 541
+  size: 281, 303
+  orig: 320, 320
+  offset: 20, 3
+  index: -1

@@ -1,0 +1,846 @@
+
+tree_petals.png
+size: 1843,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+petal1_0
+  rotate: false
+  xy: 168, 2
+  size: 41, 24
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_29
+  rotate: false
+  xy: 168, 2
+  size: 41, 24
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_1
+  rotate: false
+  xy: 211, 2
+  size: 41, 24
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_10
+  rotate: false
+  xy: 1412, 6
+  size: 41, 22
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_11
+  rotate: false
+  xy: 1757, 13
+  size: 41, 21
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_12
+  rotate: true
+  xy: 1805, 37
+  size: 41, 20
+  orig: 64, 36
+  offset: 10, 2
+  index: -1
+petal1_13
+  rotate: false
+  xy: 1713, 7
+  size: 42, 21
+  orig: 64, 36
+  offset: 9, 1
+  index: -1
+petal1_14
+  rotate: true
+  xy: 1738, 36
+  size: 42, 20
+  orig: 64, 36
+  offset: 9, 2
+  index: -1
+petal1_15
+  rotate: true
+  xy: 1760, 36
+  size: 42, 20
+  orig: 64, 36
+  offset: 9, 2
+  index: -1
+petal1_16
+  rotate: true
+  xy: 1782, 37
+  size: 41, 21
+  orig: 64, 36
+  offset: 10, 2
+  index: -1
+petal1_17
+  rotate: false
+  xy: 1455, 6
+  size: 41, 22
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_18
+  rotate: false
+  xy: 1800, 14
+  size: 41, 21
+  orig: 64, 36
+  offset: 10, 2
+  index: -1
+petal1_19
+  rotate: false
+  xy: 1498, 6
+  size: 41, 22
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_2
+  rotate: false
+  xy: 254, 2
+  size: 41, 24
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_20
+  rotate: false
+  xy: 1541, 6
+  size: 41, 22
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_21
+  rotate: false
+  xy: 1584, 6
+  size: 41, 22
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_22
+  rotate: false
+  xy: 1196, 6
+  size: 42, 22
+  orig: 64, 36
+  offset: 9, 1
+  index: -1
+petal1_23
+  rotate: false
+  xy: 1627, 6
+  size: 41, 22
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_24
+  rotate: false
+  xy: 1670, 6
+  size: 41, 22
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_25
+  rotate: false
+  xy: 1066, 5
+  size: 41, 23
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_26
+  rotate: false
+  xy: 1109, 5
+  size: 41, 23
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_27
+  rotate: false
+  xy: 80, 2
+  size: 42, 24
+  orig: 64, 36
+  offset: 9, 1
+  index: -1
+petal1_28
+  rotate: false
+  xy: 124, 2
+  size: 42, 24
+  orig: 64, 36
+  offset: 9, 1
+  index: -1
+petal1_3
+  rotate: false
+  xy: 980, 5
+  size: 41, 23
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_4
+  rotate: false
+  xy: 1023, 5
+  size: 41, 23
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_5
+  rotate: false
+  xy: 1240, 6
+  size: 41, 22
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_6
+  rotate: false
+  xy: 1283, 6
+  size: 41, 22
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_7
+  rotate: false
+  xy: 1326, 6
+  size: 41, 22
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal1_8
+  rotate: false
+  xy: 1152, 6
+  size: 42, 22
+  orig: 64, 36
+  offset: 9, 1
+  index: -1
+petal1_9
+  rotate: false
+  xy: 1369, 6
+  size: 41, 22
+  orig: 64, 36
+  offset: 10, 1
+  index: -1
+petal2_0
+  rotate: false
+  xy: 647, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_29
+  rotate: false
+  xy: 647, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_1
+  rotate: false
+  xy: 685, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_10
+  rotate: false
+  xy: 951, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_11
+  rotate: false
+  xy: 1405, 30
+  size: 35, 48
+  orig: 48, 48
+  offset: 6, 0
+  index: -1
+petal2_12
+  rotate: false
+  xy: 1442, 30
+  size: 35, 48
+  orig: 48, 48
+  offset: 6, 0
+  index: -1
+petal2_13
+  rotate: false
+  xy: 1479, 30
+  size: 35, 48
+  orig: 48, 48
+  offset: 6, 0
+  index: -1
+petal2_14
+  rotate: false
+  xy: 989, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_15
+  rotate: false
+  xy: 1027, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_16
+  rotate: false
+  xy: 1065, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_17
+  rotate: false
+  xy: 1516, 30
+  size: 35, 48
+  orig: 48, 48
+  offset: 6, 0
+  index: -1
+petal2_18
+  rotate: false
+  xy: 1553, 30
+  size: 35, 48
+  orig: 48, 48
+  offset: 6, 0
+  index: -1
+petal2_19
+  rotate: false
+  xy: 1590, 30
+  size: 35, 48
+  orig: 48, 48
+  offset: 6, 0
+  index: -1
+petal2_2
+  rotate: false
+  xy: 723, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_20
+  rotate: false
+  xy: 1627, 30
+  size: 35, 48
+  orig: 48, 48
+  offset: 6, 0
+  index: -1
+petal2_21
+  rotate: false
+  xy: 1664, 30
+  size: 35, 48
+  orig: 48, 48
+  offset: 6, 0
+  index: -1
+petal2_22
+  rotate: false
+  xy: 1103, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_23
+  rotate: false
+  xy: 1141, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_24
+  rotate: false
+  xy: 1701, 30
+  size: 35, 48
+  orig: 48, 48
+  offset: 6, 0
+  index: -1
+petal2_25
+  rotate: false
+  xy: 1179, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_26
+  rotate: false
+  xy: 1217, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_27
+  rotate: false
+  xy: 1255, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_28
+  rotate: false
+  xy: 1293, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_3
+  rotate: false
+  xy: 761, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_4
+  rotate: false
+  xy: 799, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_5
+  rotate: false
+  xy: 837, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_6
+  rotate: false
+  xy: 875, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_7
+  rotate: false
+  xy: 1331, 30
+  size: 35, 48
+  orig: 48, 48
+  offset: 6, 0
+  index: -1
+petal2_8
+  rotate: false
+  xy: 913, 30
+  size: 36, 48
+  orig: 48, 48
+  offset: 5, 0
+  index: -1
+petal2_9
+  rotate: false
+  xy: 1368, 30
+  size: 35, 48
+  orig: 48, 48
+  offset: 6, 0
+  index: -1
+petal3_0
+  rotate: true
+  xy: 28, 28
+  size: 50, 24
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_29
+  rotate: true
+  xy: 28, 28
+  size: 50, 24
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_1
+  rotate: true
+  xy: 2, 19
+  size: 59, 24
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_10
+  rotate: true
+  xy: 419, 28
+  size: 50, 20
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_11
+  rotate: true
+  xy: 485, 29
+  size: 49, 19
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_12
+  rotate: true
+  xy: 527, 29
+  size: 49, 18
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_13
+  rotate: true
+  xy: 547, 29
+  size: 49, 18
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_14
+  rotate: true
+  xy: 567, 29
+  size: 49, 18
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_15
+  rotate: true
+  xy: 587, 29
+  size: 49, 18
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_16
+  rotate: true
+  xy: 607, 29
+  size: 49, 18
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_17
+  rotate: true
+  xy: 627, 29
+  size: 49, 18
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_18
+  rotate: true
+  xy: 506, 29
+  size: 49, 19
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_19
+  rotate: true
+  xy: 441, 29
+  size: 49, 20
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_2
+  rotate: false
+  xy: 28, 2
+  size: 50, 24
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_20
+  rotate: true
+  xy: 463, 29
+  size: 49, 20
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_21
+  rotate: true
+  xy: 374, 28
+  size: 50, 21
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_22
+  rotate: true
+  xy: 303, 28
+  size: 50, 22
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_23
+  rotate: true
+  xy: 327, 28
+  size: 50, 22
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_24
+  rotate: true
+  xy: 156, 28
+  size: 50, 23
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_25
+  rotate: true
+  xy: 181, 28
+  size: 50, 23
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_26
+  rotate: true
+  xy: 206, 28
+  size: 50, 23
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_27
+  rotate: true
+  xy: 54, 28
+  size: 50, 24
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_28
+  rotate: true
+  xy: 80, 28
+  size: 50, 24
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_3
+  rotate: true
+  xy: 106, 28
+  size: 50, 23
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_4
+  rotate: true
+  xy: 131, 28
+  size: 50, 23
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_5
+  rotate: true
+  xy: 231, 28
+  size: 50, 22
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_6
+  rotate: true
+  xy: 255, 28
+  size: 50, 22
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_7
+  rotate: true
+  xy: 279, 28
+  size: 50, 22
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_8
+  rotate: true
+  xy: 351, 28
+  size: 50, 21
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal3_9
+  rotate: true
+  xy: 397, 28
+  size: 50, 20
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+petal4_0
+  rotate: true
+  xy: 804, 4
+  size: 24, 20
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_29
+  rotate: true
+  xy: 804, 4
+  size: 24, 20
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_1
+  rotate: true
+  xy: 826, 4
+  size: 24, 20
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_10
+  rotate: true
+  xy: 570, 3
+  size: 24, 22
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_11
+  rotate: true
+  xy: 297, 2
+  size: 24, 23
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_12
+  rotate: true
+  xy: 322, 2
+  size: 24, 23
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_13
+  rotate: true
+  xy: 347, 2
+  size: 24, 23
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_14
+  rotate: true
+  xy: 372, 2
+  size: 24, 23
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_15
+  rotate: true
+  xy: 397, 2
+  size: 24, 23
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_16
+  rotate: true
+  xy: 422, 2
+  size: 24, 23
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_17
+  rotate: true
+  xy: 447, 3
+  size: 24, 23
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_18
+  rotate: true
+  xy: 472, 3
+  size: 24, 23
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_19
+  rotate: true
+  xy: 497, 3
+  size: 24, 23
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_2
+  rotate: true
+  xy: 848, 4
+  size: 24, 20
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_20
+  rotate: true
+  xy: 594, 3
+  size: 24, 22
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_21
+  rotate: true
+  xy: 618, 3
+  size: 24, 22
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_22
+  rotate: true
+  xy: 642, 3
+  size: 24, 22
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_23
+  rotate: true
+  xy: 735, 4
+  size: 24, 21
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_24
+  rotate: true
+  xy: 758, 4
+  size: 24, 21
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_25
+  rotate: true
+  xy: 781, 4
+  size: 24, 21
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_26
+  rotate: true
+  xy: 914, 4
+  size: 24, 20
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_27
+  rotate: true
+  xy: 936, 4
+  size: 24, 20
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_28
+  rotate: true
+  xy: 958, 4
+  size: 24, 20
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_3
+  rotate: true
+  xy: 870, 4
+  size: 24, 20
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_4
+  rotate: true
+  xy: 892, 4
+  size: 24, 20
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_5
+  rotate: true
+  xy: 666, 4
+  size: 24, 21
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_6
+  rotate: true
+  xy: 689, 4
+  size: 24, 21
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_7
+  rotate: true
+  xy: 712, 4
+  size: 24, 21
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_8
+  rotate: true
+  xy: 522, 3
+  size: 24, 22
+  orig: 24, 32
+  offset: 0, 3
+  index: -1
+petal4_9
+  rotate: true
+  xy: 546, 3
+  size: 24, 22
+  orig: 24, 32
+  offset: 0, 3
+  index: -1

@@ -1,0 +1,118 @@
+
+effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/2
+  rotate: false
+  xy: 2, 475
+  size: 625, 592
+  orig: 734, 691
+  offset: 78, 39
+  index: -1
+effect/3
+  rotate: false
+  xy: 629, 756
+  size: 702, 311
+  orig: 712, 311
+  offset: 10, 0
+  index: -1
+effect/effect png/Countdown Comp_00007
+  rotate: true
+  xy: 1302, 1413
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+effect/effect png/Countdown Comp_00008
+  rotate: true
+  xy: 820, 1141
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+effect/effect png/Countdown Comp_00009
+  rotate: false
+  xy: 1092, 1141
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+effect/effect png/Countdown Comp_00011
+  rotate: true
+  xy: 1333, 659
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+effect/effect png/Countdown Comp_00012
+  rotate: true
+  xy: 1574, 1413
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+effect/effect png/Countdown Comp_00013
+  rotate: true
+  xy: 629, 274
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+effect/effect png/Countdown Comp_00015
+  rotate: false
+  xy: 2, 203
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+effect/effect png/Countdown Comp_00016
+  rotate: true
+  xy: 901, 274
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+effect/effect png/Countdown Comp_00017
+  rotate: false
+  xy: 1173, 387
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+effect/effect png/Countdown Comp_00018
+  rotate: true
+  xy: 1605, 931
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+effect/effect png/Countdown Comp_00019
+  rotate: false
+  xy: 1173, 115
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+effect/effect png/Countdown Comp_00020
+  rotate: false
+  xy: 484, 2
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+effect/effect png/Countdown Comp_00021
+  rotate: false
+  xy: 820, 1623
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+effect/effect1
+  rotate: false
+  xy: 2, 1069
+  size: 816, 824
+  orig: 816, 837
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1061 @@
+totems0.png
+size: 1980,1860
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+totem_burning_0
+  rotate: false
+  xy:4,4
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_1
+  rotate: false
+  xy:184,4
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_2
+  rotate: false
+  xy:184,324
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_3
+  rotate: false
+  xy:184,644
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_4
+  rotate: false
+  xy:184,964
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_5
+  rotate: false
+  xy:1264,964
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_6
+  rotate: false
+  xy:1444,964
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_7
+  rotate: false
+  xy:1624,964
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_8
+  rotate: false
+  xy:1804,964
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_9
+  rotate: false
+  xy:4,1284
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_10
+  rotate: false
+  xy:364,4
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_11
+  rotate: false
+  xy:544,4
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_12
+  rotate: false
+  xy:724,4
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_13
+  rotate: false
+  xy:904,4
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_14
+  rotate: false
+  xy:1084,4
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_15
+  rotate: false
+  xy:1264,4
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_16
+  rotate: false
+  xy:1444,4
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_17
+  rotate: false
+  xy:1624,4
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_18
+  rotate: false
+  xy:1804,4
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_19
+  rotate: false
+  xy:4,324
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_20
+  rotate: false
+  xy:364,324
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_21
+  rotate: false
+  xy:544,324
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_22
+  rotate: false
+  xy:724,324
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_23
+  rotate: false
+  xy:904,324
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_24
+  rotate: false
+  xy:1084,324
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_25
+  rotate: false
+  xy:1264,324
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_26
+  rotate: false
+  xy:1444,324
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_27
+  rotate: false
+  xy:1624,324
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_28
+  rotate: false
+  xy:1804,324
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_29
+  rotate: false
+  xy:4,644
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_30
+  rotate: false
+  xy:364,644
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_31
+  rotate: false
+  xy:544,644
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_32
+  rotate: false
+  xy:724,644
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_33
+  rotate: false
+  xy:904,644
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_34
+  rotate: false
+  xy:1084,644
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_35
+  rotate: false
+  xy:1264,644
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_36
+  rotate: false
+  xy:1444,644
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_37
+  rotate: false
+  xy:1624,644
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_38
+  rotate: false
+  xy:1804,644
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_39
+  rotate: false
+  xy:4,964
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_40
+  rotate: false
+  xy:364,964
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_41
+  rotate: false
+  xy:544,964
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_42
+  rotate: false
+  xy:724,964
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_43
+  rotate: false
+  xy:904,964
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_44
+  rotate: false
+  xy:1084,964
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_burning_45
+  rotate: false
+  xy:4,4
+  size:172,312
+  orig:170,309
+  offset:0,-3
+  index: -1
+totem_laughing_1
+  rotate: false
+  xy:184,1284
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_2
+  rotate: false
+  xy:1768,1284
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_3
+  rotate: false
+  xy:1336,1544
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_4
+  rotate: false
+  xy:1480,1544
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_5
+  rotate: false
+  xy:1624,1544
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_6
+  rotate: false
+  xy:1768,1544
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_10
+  rotate: false
+  xy:328,1284
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_11
+  rotate: false
+  xy:472,1284
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_12
+  rotate: false
+  xy:616,1284
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_13
+  rotate: false
+  xy:760,1284
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_14
+  rotate: false
+  xy:904,1284
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_15
+  rotate: false
+  xy:1048,1284
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_16
+  rotate: false
+  xy:1192,1284
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_17
+  rotate: false
+  xy:1336,1284
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_18
+  rotate: false
+  xy:1480,1284
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_19
+  rotate: false
+  xy:1624,1284
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_20
+  rotate: false
+  xy:184,1544
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_21
+  rotate: false
+  xy:4,1604
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_22
+  rotate: false
+  xy:328,1544
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_23
+  rotate: false
+  xy:472,1544
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_24
+  rotate: false
+  xy:616,1544
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_25
+  rotate: false
+  xy:760,1544
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_26
+  rotate: false
+  xy:904,1544
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_27
+  rotate: false
+  xy:1048,1544
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_28
+  rotate: false
+  xy:1192,1544
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+
+totems1.png
+size: 1440,2016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+totem_idle_0
+  rotate: false
+  xy:4,784
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_1
+  rotate: false
+  xy:4,1036
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_2
+  rotate: false
+  xy:292,4
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_3
+  rotate: false
+  xy:436,760
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_4
+  rotate: false
+  xy:436,1012
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_5
+  rotate: false
+  xy:436,1264
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_6
+  rotate: false
+  xy:436,1516
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_7
+  rotate: false
+  xy:436,1768
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_8
+  rotate: false
+  xy:580,4
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_9
+  rotate: false
+  xy:580,256
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_10
+  rotate: false
+  xy:4,1288
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_11
+  rotate: false
+  xy:4,1540
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_12
+  rotate: false
+  xy:148,4
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_13
+  rotate: false
+  xy:148,256
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_14
+  rotate: false
+  xy:148,508
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_15
+  rotate: false
+  xy:148,760
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_16
+  rotate: false
+  xy:148,1012
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_17
+  rotate: false
+  xy:148,1264
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_18
+  rotate: false
+  xy:148,1516
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_19
+  rotate: false
+  xy:148,1768
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_20
+  rotate: false
+  xy:292,256
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_21
+  rotate: false
+  xy:292,508
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_22
+  rotate: false
+  xy:292,760
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_23
+  rotate: false
+  xy:292,1012
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_24
+  rotate: false
+  xy:292,1264
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_25
+  rotate: false
+  xy:292,1516
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_26
+  rotate: false
+  xy:292,1768
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_27
+  rotate: false
+  xy:436,4
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_28
+  rotate: false
+  xy:436,256
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_idle_29
+  rotate: false
+  xy:436,508
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_laughing_7
+  rotate: false
+  xy:4,4
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_8
+  rotate: false
+  xy:4,264
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_laughing_9
+  rotate: false
+  xy:4,524
+  size:136,252
+  orig:133,251
+  offset:0,-1
+  index: -1
+totem_looks _around_0
+  rotate: false
+  xy:580,508
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_1
+  rotate: false
+  xy:580,760
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_2
+  rotate: false
+  xy:724,1516
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_3
+  rotate: false
+  xy:1012,256
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_4
+  rotate: false
+  xy:1156,1012
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_5
+  rotate: false
+  xy:1300,760
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_6
+  rotate: false
+  xy:1300,1012
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_7
+  rotate: false
+  xy:1300,1264
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_8
+  rotate: false
+  xy:1300,1516
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_9
+  rotate: false
+  xy:1300,1768
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_10
+  rotate: false
+  xy:580,1012
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_11
+  rotate: false
+  xy:580,1264
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_12
+  rotate: false
+  xy:580,1516
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_13
+  rotate: false
+  xy:580,1768
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_14
+  rotate: false
+  xy:724,4
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_15
+  rotate: false
+  xy:724,256
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_16
+  rotate: false
+  xy:724,508
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_17
+  rotate: false
+  xy:724,760
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_18
+  rotate: false
+  xy:724,1012
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_19
+  rotate: false
+  xy:724,1264
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_20
+  rotate: false
+  xy:724,1768
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_21
+  rotate: false
+  xy:868,4
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_22
+  rotate: false
+  xy:868,256
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_23
+  rotate: false
+  xy:868,508
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_24
+  rotate: false
+  xy:868,760
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_25
+  rotate: false
+  xy:868,1012
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_26
+  rotate: false
+  xy:868,1264
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_27
+  rotate: false
+  xy:868,1516
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_28
+  rotate: false
+  xy:868,1768
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_29
+  rotate: false
+  xy:1012,4
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_30
+  rotate: false
+  xy:1012,508
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_31
+  rotate: false
+  xy:1012,760
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_32
+  rotate: false
+  xy:1012,1012
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_33
+  rotate: false
+  xy:1012,1264
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_34
+  rotate: false
+  xy:1012,1516
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_35
+  rotate: false
+  xy:1012,1768
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_36
+  rotate: false
+  xy:1156,4
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_37
+  rotate: false
+  xy:1156,256
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_38
+  rotate: false
+  xy:1156,508
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_39
+  rotate: false
+  xy:1156,760
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_40
+  rotate: false
+  xy:1156,1264
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_41
+  rotate: false
+  xy:1156,1516
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_42
+  rotate: false
+  xy:1156,1768
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_43
+  rotate: false
+  xy:1300,4
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_44
+  rotate: false
+  xy:1300,256
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1
+totem_looks _around_45
+  rotate: false
+  xy:1300,508
+  size:136,244
+  orig:133,244
+  offset:0,0
+  index: -1

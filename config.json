@@ -1,0 +1,21 @@
+{
+    "domain": "https://games-dev.clotplay.com/legend-slot",
+    "api": "https://api-dev.clotplay.com",
+    "gametools": "https://game-tools-dev.clotplay.com",
+    "id": "legend-slot",
+    "loading": {
+        "name": "legend-slot-loading",
+        "version": "",
+        "prefab_path": "prefab/MainPrefab"
+    },
+    "ui": {
+        "name": "ui",
+        "version": "",
+        "prefab_path": "prefab/MainPrefab"
+    },
+    "game": {
+        "name": "legend-slot",
+        "version": "",
+        "prefab_path": "prefab/MainPrefab"
+    }
+}
