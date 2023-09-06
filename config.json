@@ -1,21 +1,4 @@
 {
-    "domain": "DOCKER_GAME_DOMAIN_PREFIX",
-    "api": "DOCKER_GAME_API_PREFIX",
-    "gametools": "DOCKER_GAME_GAMETOOLS_PREFIX",
-    "id": "hoo-hey-how",
-    "loading": {
-        "name": "hooheyhow-loading",
-        "version": "",
-        "prefab_path": "prefab/MainPrefab"
-    },
-    "ui": {
-        "name": "ui",
-        "version": "",
-        "prefab_path": "prefab/MainPrefab"
-    },
-    "game": {
-        "name": "hooheyhow",
-        "version": "",
-        "prefab_path": "prefab/MainPrefab"
-    }
+    "api": "http://128.199.67.102",
+    "id": "angpao"
 }
