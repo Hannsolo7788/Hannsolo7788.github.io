@@ -6,7 +6,7 @@
 
         <title>Angpao Rain</title>
 
-        <base href="/mini-games/angpao/" target="_self" />
+        <!-- <base href="/mini-games/angpao/" target="_self" /> -->
 
         <!--http://www.html5rocks.com/en/mobile/mobifying/-->
         <meta
@@ -53,19 +53,24 @@
                 ></canvas>
             </div>
         </div>
-        
-<!-- Polyfills bundle. -->
-<script src="src/polyfills.bundle.5adbf.js" charset="utf-8"> </script>
 
-<!-- SystemJS support. -->
-<script src="src/system.bundle.6de80.js" charset="utf-8"> </script>
+        <!-- Polyfills bundle. -->
+        <script src="src/polyfills.bundle.5adbf.js" charset="utf-8"></script>
 
-<!-- Import map -->
-<script src="src/import-map.8be20.json" type="systemjs-importmap" charset="utf-8"> </script>
+        <!-- SystemJS support. -->
+        <script src="src/system.bundle.6de80.js" charset="utf-8"></script>
 
-<script>
-    System.import('./index.08cdf.js').catch(function(err) { console.error(err); })
-</script>
+        <!-- Import map -->
+        <script
+            src="src/import-map.8be20.json"
+            type="systemjs-importmap"
+            charset="utf-8"
+        ></script>
 
+        <script>
+            System.import("./index.08cdf.js").catch(function (err) {
+                console.error(err);
+            });
+        </script>
     </body>
 </html>
